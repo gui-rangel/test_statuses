@@ -1,4 +1,4 @@
-import whatever
-
+import sys
+whatever = []
 for whatevs in whatever:
-  don't do whatevis
+  print whatevs
